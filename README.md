@@ -1,2 +1,2 @@
 # demorepo
-First Demo repository
+First Basic Demo repository for learning.
