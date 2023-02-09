@@ -2,3 +2,6 @@ List of fruits
 -Apple
 -Mango
 -Grapes
+-Papaya
+-Orange
+-Banana
